@@ -1,0 +1,3 @@
+
+k
+;ReadWriteProperty/ReadWriteProperty.Android/MainActivity.cs,d\2\d225aa7bd0475e797a263e0bc73dabd8afbe1a49
